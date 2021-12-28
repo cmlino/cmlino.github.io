@@ -9,12 +9,7 @@
 <img src="images/quacs_guide.PNG?raw=true"/>
 
 ---
-[MicroShark User Guide](/sample_page)
+[MicroShark User Guide](/pdf/resume.pdf)
 <img src="images/logo.png.jpg?raw=true"/>
-
----
-[Sleep Spindles Research Paper](/sample_page)
-<img src="images/logo.png?raw=true">
-
 
 ---
