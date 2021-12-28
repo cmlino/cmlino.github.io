@@ -1,21 +1,20 @@
 ## Portfolio
 
 ---
-
-[Dask-ML Feature Proposal](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Agile Overview](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dask-ML Feature Proposal](//pdf/feature_proposal.pdf)
+<img src="images/feature_proposal.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[QuACS User Guide](https://github.com/cmlino/quacs/blob/user_guide/userguide/user_guide.md)
+<img src="images/quacs_guide.PNG?raw=true"/>
 
 ---
+[MicroShark User Guide](/sample_page)
+<img src="images/logo.png.jpg?raw=true"/>
 
-
+---
+[Sleep Spindles Research Paper](/sample_page)
+<img src="images/logo.png?raw=true">
 
 
 ---
