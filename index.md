@@ -1,7 +1,7 @@
 ## Technical Writing Portfolio
 
 ---
-[Dask-ML Feature Proposal](//pdf/feature_proposal.pdf)
+[Dask-ML Feature Proposal](/pdf/feature_proposal.pdf)
 <img src="images/feature_proposal.PNG?raw=true"/>
 
 ---
