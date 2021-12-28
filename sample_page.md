@@ -1,6 +1,6 @@
 ## Feature proposal: Adding LDA to Dask-ML 
 
-**Project description:** 
+**Project description:** This is my project description.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
