@@ -9,7 +9,7 @@
 <img src="images/quacs_guide.PNG?raw=true"/>
 
 ---
-[MicroShark User Guide](/pdf/resume.pdf)
-<img src="images/logo.png.jpg?raw=true"/>
+[NREM Sleep Research Paper](/pdf/spindles_paper.pdf)
+<img src="images/spindles_paper.PNG?raw=true"/>
 
 ---
