@@ -1,4 +1,7 @@
 ## Technical Writing Portfolio
+---
+[PathAI Style Guide](/pdf/s.pdf)
+<img src="images/style_guide.PNG?raw=true"/>
 
 ---
 [Dask-ML Feature Proposal](/pdf/feature_proposal.pdf)
