@@ -1,6 +1,6 @@
 ## Technical Writing Portfolio
 ---
-[PathAI Style Guide](/pdf/s.pdf)
+[PathAI Style Guide](/pdf/style_guide.pdf)
 <img src="images/style_guide.PNG?raw=true"/>
 
 ---
