@@ -1,6 +1,6 @@
 ## Technical Writing Portfolio
 ---
-[Downloading Safety Parameters Guide](/pdf/feature_proposal.pdf)
+[Downloading Safety Parameters Guide](/pdf/safety_parameters.pdf)
 <img src="images/downloading_parameters.PNG?raw=true"/>
 
 ---

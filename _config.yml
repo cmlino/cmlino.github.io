@@ -1,13 +1,13 @@
 title: Chris Lino # your name (or website title) here
 # logo: "" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello! I'm Chris, and I write technical content for controllers, drives, and motors at Kollmorgen. I've written documentation for a few different projects. Check out some of my work while you're here. <br />
+  <p>Hello! I'm Chris, and I write technical content for controllers, drives, and motors at Kollmorgen. I've written documentation for a few different projects. Check out some of my work while you're here. </p>
 
   <br />
   View my:  <br />
-  <a href="https://cmlino.github.io/pdf/resume.pdf"> Resume </a>  <br /> 
-  <a href="https://www.linkedin.com/in/chrislino/"> LinkedIn </a> <br />
-  <a href="https://github.com/cmlino/"> GitHub </a> <br />
+  <p><a href="https://cmlino.github.io/pdf/resume.pdf"> Resume </a></p>  
+  <p><a href="https://www.linkedin.com/in/chrislino/"> LinkedIn </a></p> 
+  <p><a href="https://github.com/cmlino/"> GitHub </a></p>
 
   
 theme: jekyll-theme-minimal
