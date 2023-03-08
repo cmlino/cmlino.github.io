@@ -11,4 +11,3 @@
 [QuACS User Guide](https://github.com/cmlino/quacs/blob/user_guide/userguide/user_guide.md)
 <img src="images/quacs_guide.PNG?raw=true"/>
 
----
