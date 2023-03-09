@@ -1,7 +1,7 @@
 ## Technical Writing Portfolio
 ---
 [Downloading Safety Parameters Guide](/pdf/safety_parameters.pdf)
-<img src="images/downloading_parameters.PNG?raw=true"/>
+[<img src="images/downloading_parameters.PNG?raw=true"/>]
 
 ---
 [PathAI Style Guide](/pdf/style_guide.pdf)
