@@ -4,10 +4,12 @@
 <img src="images/downloading_parameters.PNG?raw=true"/>
 
 ---
+[QuACS User Guide](pdf/QuACS_User_Guide.pdf)
+<img src="images/quacs_guide.PNG?raw=true"/>
+
+---
 [PathAI Style Guide](/pdf/style_guide.pdf)
 <img src="images/style_guide.PNG?raw=true"/>
 
----
-[QuACS User Guide](https://github.com/cmlino/quacs/blob/user_guide/userguide/user_guide.md)
-<img src="images/quacs_guide.PNG?raw=true"/>
+
 
