@@ -4,7 +4,7 @@
 <img src="images/downloading_parameters.PNG?raw=true"/>
 
 ---
-[QuACS User Guide](pdf/QuACS_User_Guide.pdf)
+[QuACS User Guide](pdf/quacs_guide.pdf)
 <img src="images/quacs_guide.PNG?raw=true"/>
 
 ---
