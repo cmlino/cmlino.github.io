@@ -1,6 +1,11 @@
 ## Technical Writing Portfolio
 ---
-[Downloading Safety Parameters Guide](/pdf/safety_parameters.pdf)
+[PathAI Style Guide](/pdf/style_guide.pdf)
+<img src="images/style_guide.PNG?raw=true"/>
+
+---
+[Ripe API Documentation](/pdf/safety_parameters.pdf)
+<p>The Ripe API documentation is written with React.</p>
 <img src="images/downloading_parameters.PNG?raw=true"/>
 
 ---
@@ -8,8 +13,7 @@
 <img src="images/quacs_guide.PNG?raw=true"/>
 
 ---
-[PathAI Style Guide](/pdf/style_guide.pdf)
-<img src="images/style_guide.PNG?raw=true"/>
+
 
 
 
