@@ -8,11 +8,6 @@
 [Ripe API Documentation]()
 <p>The Ripe API documentation is written with React.</p>
 
-
----
-[User Guide Excerpt](pdf/safety_parameters.pdf)
-<img src="images/downloading_parameters.PNG?raw=true"/>
-
 ---
 
 
