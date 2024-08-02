@@ -19,7 +19,7 @@ I wrote the [style guide](/pdf/chris-lino-sample-2.pdf) for the PathAI technical
 # Hive Blog Post
 
 This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog. This centers on the hypothetical model. 
-<img src="images/hive-blog-post.PNG?raw=true"/>
+<img src="images/hive-blog-post.png?raw=true"/>
 
 ---
 
