@@ -2,11 +2,10 @@ title: Portfolio # your name (or website title) here
 # logo: "" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Chris Lino <br /> 
-  <br />
   View my:  <br />
-[Resume](https://cmlino.github.io/pdf/chris-lino-resume.pdf)
-[LinkedIn](https://www.linkedin.com/in/chrislino/)
-[GitHub](https://github.com/cmlino/)
+  [Resume](https://cmlino.github.io/pdf/chris-lino-resume.pdf)
+  [LinkedIn](https://www.linkedin.com/in/chrislino/)
+  [GitHub](https://github.com/cmlino/)
 
   
 theme: jekyll-theme-minimal
