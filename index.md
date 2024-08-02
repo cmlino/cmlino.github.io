@@ -12,7 +12,7 @@ This [API documentation](/pdf/chris-lino-sample-1.pdf) includes cURL code sample
 
 # PathAI Style Guide
 
-I wrote the [style guide](/pdf/chris-lino-sample-2.pdf) for the PathAI technical writing department.
+I wrote the [style guide](/pdf/chris-lino-sample-2.pdf) for the PathAI technical writing department to help foster a unified voice in our documentation.
 
 <img src="images/style-guide.PNG?raw=true"/>
 
@@ -20,7 +20,7 @@ I wrote the [style guide](/pdf/chris-lino-sample-2.pdf) for the PathAI technical
 
 # Hive Blog Post
 
-This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog. This centers on the hypothetical model. <br>
+This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog. This centers on the hypothetical Intellectual Property Detection Model and showcases my expertise in content writing. <br>
 
 <img src="images/hive-blog-post.png?raw=true"/>
 
@@ -28,7 +28,9 @@ This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog
 
 # More Projects
 
-[Zulip Reference Sheet](/pdf/chris-lino-sample-4.pdf) Here is training material I created for the Billy De Frank Organizing Committee to help them migrate to Zulip.
+[Zulip Reference Sheet](/pdf/chris-lino-sample-4.pdf): This "cheat sheet" is training material I created for the Billy De Frank Organizing Committee to help them migrate to Zulip. I collaborated with another technical writer to create this piece.
+
+[Zoox Documentation Procedure](/pdf/chris-lino-sample-5.pdf): This documentation was written for Zoox and is a response to the prompt "Define a documentation process for writing a procedure on how to replace a car windshield." This article outlines my thought process when writing documentation.
 
 ---
 
