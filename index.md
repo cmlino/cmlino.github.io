@@ -4,7 +4,7 @@ Hi! Thanks for reviewing my portfolio. Below are my techical documentation proje
 
 # Ripe API Documentation 
 
-This [API documentation](/pdf/chris-lino-sample-1.pdf) includes cURL code samples for all GET, POST, PUT, and DELETE operations, as well as information on authentication.
+This [API documentation](/pdf/chris-lino-sample-1.pdf) includes cURL code samples for all GET, POST, PUT, and DELETE operations, as well as information on authentication. <br>
 
 <img src="images/ripe-api.png?raw=true"/>
 
@@ -12,7 +12,7 @@ This [API documentation](/pdf/chris-lino-sample-1.pdf) includes cURL code sample
 
 # PathAI Style Guide
 
-I wrote the [style guide](/pdf/chris-lino-sample-2.pdf) for the PathAI technical writing department.
+I wrote the [style guide](/pdf/chris-lino-sample-2.pdf) for the PathAI technical writing department. <br>
 
 <img src="images/style-guide.PNG?raw=true"/>
 
@@ -20,7 +20,7 @@ I wrote the [style guide](/pdf/chris-lino-sample-2.pdf) for the PathAI technical
 
 # Hive Blog Post
 
-This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog. This centers on the hypothetical model.
+This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog. This centers on the hypothetical model. <br>
 
 <img src="images/hive-blog-post.png?raw=true"/>
 
