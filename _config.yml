@@ -6,9 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   View the project on GitHub
   <br />
   View my:  <br />
-  <p><a href="https://cmlino.github.io/pdf/chris-lino-resume.pdf"> Resume </a><br />
-     <a href="https://www.linkedin.com/in/chrislino/"> LinkedIn </a><br />
-     <a href="https://github.com/cmlino/"> GitHub </a><br /></p>
+[Resume](https://cmlino.github.io/pdf/chris-lino-resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/chrislino/)
+[GitHub](https://github.com/cmlino/)
 
   
 theme: jekyll-theme-minimal
