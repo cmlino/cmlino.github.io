@@ -5,6 +5,7 @@ Hi! Thanks for reviewing my portfolio. Below are my techical documentation proje
 # Ripe API Documentation 
 
 This [API documentation](/pdf/chris-lino-sample-1.pdf) includes cURL code samples for all GET, POST, PUT, and DELETE operations, as well as information on authentication.
+
 <img src="images/ripe-api.png?raw=true"/>
 
 ---
@@ -12,13 +13,15 @@ This [API documentation](/pdf/chris-lino-sample-1.pdf) includes cURL code sample
 # PathAI Style Guide
 
 I wrote the [style guide](/pdf/chris-lino-sample-2.pdf) for the PathAI technical writing department.
+
 <img src="images/style-guide.PNG?raw=true"/>
 
 ---
 
 # Hive Blog Post
 
-This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog. This centers on the hypothetical model. 
+This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog. This centers on the hypothetical model.
+
 <img src="images/hive-blog-post.png?raw=true"/>
 
 ---
@@ -42,7 +45,7 @@ This is a [blog post](/pdf/chris-lino-sample-3.pdf) I wrote for the Hive AI blog
 
 # Education
 
-**Bachelor of Science in Cognitive Science, Minor in Computer Science @ Rensselaer Polytechnic Insitute (RPI)**
+**B.S. in Cognitive Science, Minor in Computer Science @ Rensselaer Polytechnic Insitute**
 
 - Software Design & Documentation
 - Data Structures
